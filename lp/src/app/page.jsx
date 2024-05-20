@@ -7,7 +7,6 @@ import Carrousel from "@/components/carrousel/Carrousel";
 import IntroContainer from "@/components/introduction/introContainer/IntroContainer";
 
 export default function Home() {
-  console.log(data);
   return (
     <main className="">
       <Navbar />
