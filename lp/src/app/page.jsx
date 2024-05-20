@@ -13,15 +13,16 @@ export default function Home() {
       <Navbar />
       {data.map((section, id) => (
         <div className="flex  flex-col items-center justify-center align-middle" key={section.id}>
-          <IntroContainer>
+          <IntroContainer url={section.url}>
             <Intro
-              btnHref={"fashion"}
+              btnHref={section.urlText}
               imgBg={section.imgBg}
               title={section.title}
+             
             />
           </IntroContainer>
-          <TextContainer>
-            <Text text={data[id].text} />
+          <TextContainer urlText={section.urlText}>
+            <Text texts={data[id].text} />
             {section.img1 && section.img2 && <Carrousel img1={section.img1} img2={section.img2} />}
 
           </TextContainer>

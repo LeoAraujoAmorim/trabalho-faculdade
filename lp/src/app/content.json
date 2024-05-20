@@ -8,7 +8,8 @@
     "img2": "/images/fashion/img2-moda.jpg",
     "imgBg": "/images/fashion/img3-moda.jpg",
     "id": 1,
-    "url": "fashion"
+    "url": "fashion",
+    "urlText": "fashion-txt"
   },
   {
     "title": "The Importance of Diversity in Systems Analysis and Development for Innovation and Technological Quality",
@@ -22,7 +23,8 @@
     "img2": "/images/ads/img2-ads.jpg",
     "imgBg": "/images/ads/img3-ads.jpg",
     "id": 2,
-    "url": "systems-analysis"
+    "url": "systems-analysis",
+    "urlText": "systems-txt"
   },
   {
     "title": "The Impact of Diversity and Technology on Advancing Veterinary Medicine",
@@ -34,7 +36,8 @@
     "img2": "/images/vet/img2-vet.jpg",
     "imgBg": "/images/vet/img3-vet.jpg",
     "id": 3,
-    "url": "veterinay-medicine"
+    "url": "veterinay-medicine",
+    "urlText": "veterinay-txt"
   },
   {
     "title": "How Diversity and Technology are Revolutionizing the Field of Graphic Design",
@@ -49,7 +52,8 @@
     "img2": "/images/graphic/img2-graphic.jpg",
     "imgBg": "/images/graphic/img3-graphic.jpg",
     "id": 4,
-    "url": "graphic-design"
+    "url": "graphic-design",
+    "urlText": "graphic-txt"
   },
   {
     "title": "The Transformative Impact of Diversity and Technology on Interior Design",
@@ -58,7 +62,8 @@
     ],
     "imgBg": "/images/intDesing/imgBg-int-desing.jpg",
     "id": 5,
-    "url": "interior-design"
+    "url": "interior-design",
+    "urlText": "interior-txt"
   },
   {
     "title": "The Essential Role of Technology and Diversity in Modern Music Production",
@@ -71,7 +76,8 @@
     "img2": "/images/prod/img2-prod.jpg",
     "imgBg": "/images/prod/imgBg-prod.jpg",
     "id": 6,
-    "url": "music-production"
+    "url": "music-production",
+    "urlText": "music-txt"
   },
   {
     "title": "The Impact of Diversity and Technology on Modern Marketing Strategies",
@@ -93,6 +99,7 @@
     ],
     "imgBg": "/images/marketing/imgBg-mkt.jpg",
     "id": 7,
-    "url": "marketing"
+    "url": "marketing",
+    "urlText": "marketing-txt"
   }
 ]
