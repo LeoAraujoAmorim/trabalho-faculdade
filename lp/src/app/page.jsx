@@ -12,10 +12,9 @@ export default function Home() {
     <main className="">
       <Navbar />
       {data.map((section, id) => (
-        <div className="flex  flex-col items-center justify-center align-middle">
-          <IntroContainer key={section.id}>
+        <div className="flex  flex-col items-center justify-center align-middle" key={section.id}>
+          <IntroContainer>
             <Intro
-              key={section.id}
               btnHref={"fashion"}
               imgBg={section.imgBg}
               title={section.title}
