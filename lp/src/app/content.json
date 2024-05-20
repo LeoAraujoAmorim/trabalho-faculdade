@@ -6,34 +6,35 @@
     ],
     "img1": "/images/fashion/img1-moda.jpg",
     "img2": "/images/fashion/img2-moda.jpg",
-    "img3": "/images/fashion/img3-moda.jpg",
-    "id": 1
+    "imgBg": "/images/fashion/img3-moda.jpg",
+    "id": 1,
+    "url": "fashion"
   },
   {
     "title": "The Importance of Diversity in Systems Analysis and Development for Innovation and Technological Quality",
     "text": [
-      [
-        "Diversity in the field of systems analysis and development is crucial to boosting creativity, innovation and the quality of the technological solutions developed. By bringing together professionals with different backgrounds, perspectives and experiences, teams can approach problems in broader ways and find more effective solutions.",
-        "Diversity in this area can manifest itself in many ways, including diversity of gender, ethnicity, age, academic background, technical skills and life experiences. Having a diverse team can lead to a greater ability to identify and solve usability, accessibility and security problems, as well as ensuring that the solutions developed meet the needs of a wider range of users.",
-        "In addition, diversity in the area of systems analysis and development can promote a more inclusive and welcoming work environment, where all team members feel valued and empowered to contribute fully.",
-        "To promote diversity in this area, companies and educational institutions can implement initiatives such as targeted recruitment, mentoring programs, training in awareness and unconscious bias, and policies to promote equal opportunities. It is also important to create an organizational culture that values and celebrates diversity, encouraging mutual respect and collaboration between colleagues from different backgrounds and perspectives."
-      ]
+      "Diversity in the field of systems analysis and development is crucial to boosting creativity, innovation and the quality of the technological solutions developed. By bringing together professionals with different backgrounds, perspectives and experiences, teams can approach problems in broader ways and find more effective solutions.",
+      "Diversity in this area can manifest itself in many ways, including diversity of gender, ethnicity, age, academic background, technical skills and life experiences. Having a diverse team can lead to a greater ability to identify and solve usability, accessibility and security problems, as well as ensuring that the solutions developed meet the needs of a wider range of users.",
+      "In addition, diversity in the area of systems analysis and development can promote a more inclusive and welcoming work environment, where all team members feel valued and empowered to contribute fully.",
+      "To promote diversity in this area, companies and educational institutions can implement initiatives such as targeted recruitment, mentoring programs, training in awareness and unconscious bias, and policies to promote equal opportunities. It is also important to create an organizational culture that values and celebrates diversity, encouraging mutual respect and collaboration between colleagues from different backgrounds and perspectives."
     ],
     "img1": "/images/ads/img1-ads.jpg",
     "img2": "/images/ads/img2-ads.jpg",
-    "img3": "/images/ads/img3-ads.jpg",
-    "id": 2
+    "imgBg": "/images/ads/img3-ads.jpg",
+    "id": 2,
+    "url": "systems-analysis"
   },
   {
     "title": "The Impact of Diversity and Technology on Advancing Veterinary Medicine",
     "text": [
       "Diversity and technology have a major impact on veterinary medicine. Diversity promotes varied perspectives and inclusive approaches to dealing with animal health challenges, while advanced technology drives more accurate diagnoses, innovative treatments and better communication between professionals and clients.",
-      "In addition, diversity in veterinary medicine contributes to the representation and understanding of different cultures and animal care practices around the world. Meanwhile, technology offers tools such as telemedicine, electronic health records and remote monitoring devices, improving the efficiency and quality of veterinary care. Together, diversity and technology are driving significant advances in veterinary medicine, benefiting both professionals and animals."
+      "In addition, diversity in veterinary medicine contributes to the representation and understanding of different cultures and animal care practices around the world. Meanwhile, technology offers tools such as telemedicine, electronic health records and remote monitoring devices, improving the efficiency and quality of veterinary care. Together, diversity and technology are driving significant advances in veterinary medicine, benefiting both professionals and animals."
     ],
     "img1": "/images/vet/img1-vet.jpg",
     "img2": "/images/vet/img2-vet.jpg",
-    "img3": "/images/vet/img3-vet.jpg",
-    "id": 3
+    "imgBg": "/images/vet/img3-vet.jpg",
+    "id": 3,
+    "url": "veterinay-medicine"
   },
   {
     "title": "How Diversity and Technology are Revolutionizing the Field of Graphic Design",
@@ -42,34 +43,35 @@
       "Including different voices and points of view in graphic design leads to greater cultural sensitivity and a deeper understanding of global audiences. This results in more authentic and relevant pieces, capable of connecting more effectively with diverse audiences. Furthermore, diversity in the design industry promotes equitable opportunities for underrepresented talent, enriching the field with a broader range of skills and talents.",
       "On the other hand, technology plays a crucial role in empowering designers to explore new creative frontiers. Advanced digital tools such as 3D design software, augmented reality and artificial intelligence offer unprecedented possibilities for visual expression and experimentation. These technologies enable designers to create immersive, interactive experiences that transcend the boundaries of paper and screen, bringing their visions to life in innovative ways.",
       "Additionally, technology facilitates remote collaboration and instant communication, enabling design teams to work efficiently on global projects regardless of geographic barriers. This not only increases productivity but also promotes diversity by allowing professionals from different backgrounds to work together harmoniously and collaboratively.",
-      "In short, the combination of diversity and technology is driving a revolution in graphic design, making it more inclusive, dynamic and creative than ever. As we continue to explore new frontiers and embrace a wider range of perspectives, the potential for innovation in the design industry only grows."
+      "In short, the combination of diversity and technology is driving a revolution in graphic design, making it more inclusive, dynamic and creative than ever. As we continue to explore new frontiers and embrace a wider range of perspectives, the potential for innovation in the design industry only grows."
     ],
     "img1": "/images/graphic/img1-graphic.jpg",
     "img2": "/images/graphic/img2-graphic.jpg",
-    "img3": "/images/graphic/img3-graphic.jpg",
-    "id": 4
+    "imgBg": "/images/graphic/img3-graphic.jpg",
+    "id": 4,
+    "url": "graphic-design"
   },
   {
     "title": "The Transformative Impact of Diversity and Technology on Interior Design",
     "text": [
       "Over the years, interior design has changed as social, cultural and technological changes have taken place. In the current scenario, advanced technologies have revolutionized the way we design: home automation, intelligent lighting, 3D printing, virtual reality and augmented reality are just some of the ways in which technology allows us to provide more functionality, personalization and sustainability to projects."
     ],
-    "img1": "/images/ads/img1-ads.jpg",
-    "img2": "/images/ads/img2-ads.jpg",
-    "img3": "/images/ads/img3-ads.jpg",
-    "id": 5
+    "imgBg": "/images/intDesing/imgBg-int-desing.jpg",
+    "id": 5,
+    "url": "interior-design"
   },
   {
     "title": "The Essential Role of Technology and Diversity in Modern Music Production",
     "text": [
       "The involvement of technology and diversity in the field of music production has been essential to the rise of the profession and the way it works today. Technological development, the advent of the internet and the inclusion of diverse groups has democratized the spaces where the job is carried out.",
       "Technological advances have greatly facilitated the processes of producing a song, involving composition, recording, mixing and finalization. Nowadays, it's possible to create a song from scratch using just a device such as a laptop or computer. This highlights something that would have been impossible 30 years ago. Without the development of technology, it would have been necessary to own a lot of more expensive equipment to perform small functions that a music recording program can do quickly today.",
-      "In addition, diversity has been essential in democratizing access to these music creation programs for the most socially vulnerable. Today, a person with just a small laptop can create a simple piece of music. This process of globalization has given small independent artists opportunities to show themselves and gain visibility, some of whom even manage to sign with record labels in the future and make a living from their art."
+      "In addition, diversity has been essential in democratizing access to these music creation programs for the most socially vulnerable. Today, a person with just a small laptop can create a simple piece of music. This process of globalization has given small independent artists opportunities to show themselves and gain visibility, some of whom even manage to sign with record labels in the future and make a living from their art."
     ],
     "img1": "/images/prod/img1-prod.jpg",
     "img2": "/images/prod/img2-prod.jpg",
-    "img3": "/images/prod/img3-prod.jpg",
-    "id": 6
+    "imgBg": "/images/prod/imgBg-prod.jpg",
+    "id": 6,
+    "url": "music-production"
   },
   {
     "title": "The Impact of Diversity and Technology on Modern Marketing Strategies",
@@ -89,6 +91,8 @@
       "However, it is important to remember that technological advances bring problems, such as issues with privacy and data security. Companies must be mindful of ethical rules and practices as they explore and adopt new marketing technologies to ensure customers have a positive experience.",
       "In short, the marketing industry is undergoing an unprecedented transformation due to technological advancements, which are giving companies new ways to connect and engage their target audiences in innovative and meaningful ways. Those who adopt these technologies and adapt to market changes will have a better chance of succeeding in an increasingly digital and competitive environment."
     ],
-    "id": 7
+    "imgBg": "/images/marketing/imgBg-mkt.jpg",
+    "id": 7,
+    "url": "marketing"
   }
 ]
