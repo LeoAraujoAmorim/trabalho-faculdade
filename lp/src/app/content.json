@@ -1,5 +1,6 @@
 [
   {
+    "name":"fashion",
     "title": "Fashion Forward: Embracing Diversity and Technology in the Fashion Industry",
     "text": [
       "Fashion is a cultural expression that reflects the movements of change that society is going through. Diversity in fashion, inclusive fashion, representativeness in fashion are some of the concepts present in the fashion universe to cover a varied group of people, including ethnicity, sexual orientation, gender identity, socioeconomic status, disabilities and age. In addition to meeting the needs of consumers who don't see themselves represented in many fashion brands, a company that promotes diversity has more ethical and culturally diverse positions, establishing a relationship of respect and trust with the public. Standards of beauty and aesthetic perfection are outdated in the fashion world and are being overtaken by the diversity of real people and bodies! The development of inclusive articles, pieces and products is fundamental for a good company and, with this, technology has become a great ally for fashion. Intelligent software can be the first step towards more agile and optimized production when creating a collection. In addition to saving resources and time, there are technological innovations that bring customers closer to the fashion business and increase their loyalty. Changes in the industry are coming about through technology, from fashion shows held in virtual environments to realistic avatars for trying on clothes; the traditional way of creating is being replaced by technological innovation, with pieces constructed virtually aimed at making consumers' day-to-day lives easier and being multifunctional. Technology applied to fashion means that fabrics, patterns and entire garments are virtual at first, making the process much more sustainable and significantly reducing waste in the industry"
@@ -12,6 +13,7 @@
     "urlText": "fashion-txt"
   },
   {
+    "name": "Systems Analysis",
     "title": "The Importance of Diversity in Systems Analysis and Development for Innovation and Technological Quality",
     "text": [
       "Diversity in the field of systems analysis and development is crucial to boosting creativity, innovation and the quality of the technological solutions developed. By bringing together professionals with different backgrounds, perspectives and experiences, teams can approach problems in broader ways and find more effective solutions.",
@@ -27,6 +29,7 @@
     "urlText": "systems-txt"
   },
   {
+    "name": "Veterinary Medicine",
     "title": "The Impact of Diversity and Technology on Advancing Veterinary Medicine",
     "text": [
       "Diversity and technology have a major impact on veterinary medicine. Diversity promotes varied perspectives and inclusive approaches to dealing with animal health challenges, while advanced technology drives more accurate diagnoses, innovative treatments and better communication between professionals and clients.",
@@ -40,6 +43,7 @@
     "urlText": "veterinay-txt"
   },
   {
+    "name": "Graphic Design",
     "title": "How Diversity and Technology are Revolutionizing the Field of Graphic Design",
     "text": [
       "The intersection between diversity and technology in the field of graphic design has had a transformative impact, redefining not only visual aesthetics, but also creative processes and the way messages are communicated. Diversity, represented by a variety of cultural perspectives, experiences and identities, inspires innovation and inclusion, broadening designers' creative horizons.",
@@ -56,6 +60,7 @@
     "urlText": "graphic-txt"
   },
   {
+    "name": "Interior Design",
     "title": "The Transformative Impact of Diversity and Technology on Interior Design",
     "text": [
       "Over the years, interior design has changed as social, cultural and technological changes have taken place. In the current scenario, advanced technologies have revolutionized the way we design: home automation, intelligent lighting, 3D printing, virtual reality and augmented reality are just some of the ways in which technology allows us to provide more functionality, personalization and sustainability to projects."
@@ -66,6 +71,7 @@
     "urlText": "interior-txt"
   },
   {
+    "name": "Music Production",
     "title": "The Essential Role of Technology and Diversity in Modern Music Production",
     "text": [
       "The involvement of technology and diversity in the field of music production has been essential to the rise of the profession and the way it works today. Technological development, the advent of the internet and the inclusion of diverse groups has democratized the spaces where the job is carried out.",
@@ -80,6 +86,7 @@
     "urlText": "music-txt"
   },
   {
+    "name": "Marketing",
     "title": "The Impact of Diversity and Technology on Modern Marketing Strategies",
     "text": [
       "We know that inclusion has a significant and positive impact, not only in one area, but across all. Today, we will discuss diversity inclusion in marketing:",
